@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dannas-website/static/css/main.4b595dce.css",
+    "main.js": "/Dannas-website/static/js/main.a9b4212d.js",
+    "static/media/danna1.png": "/Dannas-website/static/media/danna1.4f6ec64136d478c302ca.png",
+    "static/media/pic1.png": "/Dannas-website/static/media/pic1.c5c295e147a89f647e11.png",
+    "static/media/pic4.png": "/Dannas-website/static/media/pic4.8755f93ac2c4ed1abe67.png",
+    "static/media/pic5.png": "/Dannas-website/static/media/pic5.61781790c5f67bf988b8.png",
+    "static/media/pic6.png": "/Dannas-website/static/media/pic6.3651ece2fdc410345bd0.png",
+    "static/media/pic3.png": "/Dannas-website/static/media/pic3.1dfbc1d2574772df8df9.png",
+    "static/media/pic2.png": "/Dannas-website/static/media/pic2.c13eeccfde896e826450.png",
+    "static/media/danna3.png": "/Dannas-website/static/media/danna3.1755ab4cbf88f811b081.png",
+    "static/media/pic8.png": "/Dannas-website/static/media/pic8.71d867bd1082fd1f5320.png",
+    "static/media/danna2.png": "/Dannas-website/static/media/danna2.72545a60e85a13bdc470.png",
+    "static/media/pic7.png": "/Dannas-website/static/media/pic7.69ffb260453f6e9bb45b.png",
+    "static/media/logojay.png": "/Dannas-website/static/media/logojay.5167d172290af592cd15.png",
+    "index.html": "/Dannas-website/index.html",
+    "main.4b595dce.css.map": "/Dannas-website/static/css/main.4b595dce.css.map",
+    "main.a9b4212d.js.map": "/Dannas-website/static/js/main.a9b4212d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b595dce.css",
+    "static/js/main.a9b4212d.js"
+  ]
+}
